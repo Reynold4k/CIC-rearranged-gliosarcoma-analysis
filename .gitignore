@@ -1,0 +1,32 @@
+# Raw sequencing and large analysis objects
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bai
+*.cram
+*.vcf
+*.vcf.gz
+*.tbi
+*.csi
+*.rds
+*.h5
+*.h5ad
+*.mtx
+*.mtx.gz
+
+# Large generated reports/figures
+results/
+output/
+*.html
+*.png
+*.pdf
+*.svg
+
+# Local caches
+.Rhistory
+.RData
+__pycache__/
+*.pyc
+.DS_Store
