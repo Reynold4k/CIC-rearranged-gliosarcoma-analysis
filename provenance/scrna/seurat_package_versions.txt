@@ -1,0 +1,7 @@
+R=4.3.3
+Seurat=5.1.0
+SeuratObject=5.0.2
+macrophage	Seurat=5.1.0	SeuratObject=5.0.2
+tumor	Seurat=5.1.0	SeuratObject=5.0.2
+refined_global	Seurat=5.1.0	SeuratObject=5.0.2
+tumor_pseudotime	Seurat=5.1.0	SeuratObject=5.0.2
